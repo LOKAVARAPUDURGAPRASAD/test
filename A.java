@@ -12,3 +12,6 @@ A a=new A();
 System.out.println(a.s);
 }
 }
+}
+}
+}
