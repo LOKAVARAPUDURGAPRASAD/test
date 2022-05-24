@@ -18,3 +18,6 @@ System.out.println(a.s);
 system.out.println
 kgjfgkkg
 gkggkk
+lldkdodokkk
+kodkkdod
+jjfifo
